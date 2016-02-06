@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://t-maxwell.github.io
+title: Maxwell.life
+email: tmseal@gmail.com
+author: t-maxwell
+description: My awesome new site
+paginate: 3
+google_analytics: UA-73434404-1
